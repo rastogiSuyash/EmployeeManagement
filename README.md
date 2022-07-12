@@ -1,2 +1,2 @@
 # EmployeeManagement
-Project for Employee Management System
+A simple Employee Management System using Spring MVC.
